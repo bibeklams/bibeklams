@@ -5,7 +5,7 @@
 
 ## 🚀 **About Me**  
 - 🌱 Currently pursuing **Bachelor's in Computer Applications (BCA)**  
-- 💡 Passionate about **Web Dev (MERN Stack)**, **Open Source**, and **Problem Solving**  
+- 💡 Passionate about **Web Dev (MERN Stack)**, **Backend**, **Open Source**, and **Problem Solving**  
 - 🔭 Working on personal projects to sharpen my skills  
 - 🎯 Goal: Contribute to meaningful tech projects while learning daily  
 - ⚡ Fun fact: I speak 3 languages 🇳🇵🇺🇸🇮🇳  
